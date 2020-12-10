@@ -1,6 +1,6 @@
 {
-    "name": "@0x/subproviders",
-    "version": "6.1.1",
+    "name": "@wanswap/subproviders",
+    "version": "0.0.1",
     "engines": {
         "node": ">=6.12"
     },
